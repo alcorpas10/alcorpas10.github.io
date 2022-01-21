@@ -129,7 +129,7 @@ footer img{
 	z-index:20;
 }
 
-.header span {/*ADRIAN TURIEL CHARRO*/		
+.header span {		
 	display:block;
 	font-size:1.5em;
 	cursor: -webkit-grab;
@@ -168,7 +168,7 @@ footer img{
 	z-index: -2;
 }
 
-#atuch img{
+#alex img{
 	z-index: -1;
 	background:none;
 	position: absolute;
@@ -177,7 +177,7 @@ footer img{
 	width:10em;
 }
 @media(max-width: 770px) {
-	#atuch img{
+	#alex img{
 		margin-top:12vh;
 		margin-left: 0;
 		left:0;
